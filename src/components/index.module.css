@@ -52,3 +52,11 @@
   max-width: none;
   line-height: var(--line-height-loose);
 }
+.linkHover {
+  color: black;
+  text-decoration: none;
+}
+.linkHover:hover {
+  text-decoration: underline;
+  color: rebeccapurple;
+}

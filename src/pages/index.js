@@ -33,6 +33,22 @@ const links = [
   },
 ]
 
+export const navLinks = [
+  {
+    title: "Home",
+    url: "/"
+  },
+
+  {
+    title: "Page 2",
+    url: "/page-2"
+  },
+  {
+    title: "Typescript",
+    url: "/using-typescript"
+  }
+]
+
 const samplePageLinks = [
   {
     text: "Page 2",
@@ -124,5 +140,4 @@ const IndexPage = () => (
  * See: https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-head/
  */
 export const Head = () => <Seo title="Home" />
-
 export default IndexPage
