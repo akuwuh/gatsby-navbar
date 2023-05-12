@@ -2,11 +2,9 @@
 
 SFL Coding Challenge Submission (05/12/2023)
 
-
 Name: Isaac Nguyen
 
 Education: CS @ University of Waterloo (2025)
-
 
 References:
 
